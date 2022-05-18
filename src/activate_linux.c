@@ -78,7 +78,7 @@ int main(int argc, char *argv[]) {
 		title = "Activate BSD";
 		subtitle = "Go to Settings to activate BSD.";
     #else
-        title = "Activate Linux";
+        title = "Activate Linux :rofl:";
         subtitle = "Go to Settings to activate Linux.";
     #endif
 
